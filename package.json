@@ -1,5 +1,5 @@
 {
-  "homepage": "https//sostene12/github.io/react-food-recipe",
+  "homepage": "https://sostene12.github.io/Food-recipe-React",
   "name": "recipe",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
